@@ -2,6 +2,12 @@
 
 An electron wrapped Pushover.net desktop application.
 
+<table border=0 padding=1>
+   <tr>
+     <td><img src="screenshots/window.png" width=600></td>
+  </tr>
+</table>
+
 ## Usage
 
 Download the latest release from: https://github.com/Fmstrat/pushover-desktop/releases
