@@ -1,6 +1,6 @@
 # Pushover Desktop
 
-An electron wrapped Pushover application.
+An electron wrapped Pushover.net desktop application.
 
 ## Usage
 
