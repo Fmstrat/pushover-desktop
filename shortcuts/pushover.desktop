@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Pushover
+Exec=/opt/pushover/Pushover
+Terminal=false
+Icon=/opt/pushover/resources/app/icon.png
+Type=Application
+GenericName=Pushover
+Comment=Pushover
+Categories=Network;
+StartupWMClass=pushover-nativefier-794ae3
